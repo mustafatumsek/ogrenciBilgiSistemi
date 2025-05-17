@@ -1,0 +1,12 @@
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.exe.config
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.exe
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.pdb
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.anaMenu.resources
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.Properties.Resources.resources
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.exe
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.pdb
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.FormOgrenci.resources
+C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.FormOgretmen.resources
