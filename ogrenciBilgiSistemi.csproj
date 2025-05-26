@@ -47,11 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ders.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="anaMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="anaMenu.Designer.cs">
+      <DependentUpon>anaMenu.cs</DependentUpon>
     </Compile>
     <Compile Include="FormOgrenci.cs">
       <SubType>Form</SubType>
@@ -70,8 +70,8 @@
     <Compile Include="Ogretmen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="anaMenu.resx">
+      <DependentUpon>anaMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormOgrenci.resx">
       <DependentUpon>FormOgrenci.cs</DependentUpon>

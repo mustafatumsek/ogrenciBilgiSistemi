@@ -27,7 +27,7 @@ namespace OgrenciBilgiSistemi
             lblAdSoyad.Text = $"{ogretmen.AdSoyad}";
             lblAdS.Text = $"Ad Soyad: {ogretmen.AdSoyad}";
             lblSinif.Text = $"Unvan: {ogretmen.unvan}";
-            lblOgrNo.Text = $"Sicil No:{ogretmen.SicilNo}";
+            lblOgrNo.Text = $"Telefon Numarası:{ogretmen.telNo}";
             lblKullaniciAdi.Text = $"Kullanıcı Adı:{ogretmen.KullaniciAdi}";
         }
 
@@ -67,7 +67,6 @@ namespace OgrenciBilgiSistemi
                 {
                     seciliDers.Not = girilenNot;
 
-                    // Görsel güncelleme
                     dgvDersler.Refresh();
 
                     MessageBox.Show("Not başarıyla girildi.");

@@ -52,10 +52,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Helvetica", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(343, 211);
+            this.label1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(457, 260);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 19);
+            this.label1.Size = new System.Drawing.Size(125, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "Hoşgeldiniz,";
             // 
@@ -63,26 +64,30 @@
             // 
             this.lblAd.AutoSize = true;
             this.lblAd.BackColor = System.Drawing.Color.Transparent;
-            this.lblAd.Font = new System.Drawing.Font("Helvetica", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblAd.Location = new System.Drawing.Point(449, 211);
+            this.lblAd.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAd.Location = new System.Drawing.Point(599, 260);
+            this.lblAd.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAd.Name = "lblAd";
-            this.lblAd.Size = new System.Drawing.Size(94, 19);
+            this.lblAd.Size = new System.Drawing.Size(108, 23);
             this.lblAd.TabIndex = 1;
             this.lblAd.Text = "Hoşgeldiniz";
             // 
             // dgvDersler
             // 
             this.dgvDersler.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDersler.Location = new System.Drawing.Point(3, 3);
+            this.dgvDersler.Location = new System.Drawing.Point(4, 4);
+            this.dgvDersler.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dgvDersler.Name = "dgvDersler";
-            this.dgvDersler.Size = new System.Drawing.Size(273, 285);
+            this.dgvDersler.RowHeadersWidth = 51;
+            this.dgvDersler.Size = new System.Drawing.Size(364, 351);
             this.dgvDersler.TabIndex = 2;
             // 
             // btnBilgi
             // 
-            this.btnBilgi.Location = new System.Drawing.Point(369, 274);
+            this.btnBilgi.Location = new System.Drawing.Point(492, 337);
+            this.btnBilgi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnBilgi.Name = "btnBilgi";
-            this.btnBilgi.Size = new System.Drawing.Size(160, 59);
+            this.btnBilgi.Size = new System.Drawing.Size(213, 73);
             this.btnBilgi.TabIndex = 3;
             this.btnBilgi.Text = "Bilgilerimi Görüntüle";
             this.btnBilgi.UseVisualStyleBackColor = true;
@@ -90,9 +95,10 @@
             // 
             // btnNot
             // 
-            this.btnNot.Location = new System.Drawing.Point(369, 363);
+            this.btnNot.Location = new System.Drawing.Point(492, 447);
+            this.btnNot.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnNot.Name = "btnNot";
-            this.btnNot.Size = new System.Drawing.Size(160, 59);
+            this.btnNot.Size = new System.Drawing.Size(213, 73);
             this.btnNot.TabIndex = 4;
             this.btnNot.Text = "Notlarımı Göster";
             this.btnNot.UseVisualStyleBackColor = true;
@@ -100,9 +106,10 @@
             // 
             // btnCikis
             // 
-            this.btnCikis.Location = new System.Drawing.Point(403, 461);
+            this.btnCikis.Location = new System.Drawing.Point(537, 567);
+            this.btnCikis.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCikis.Name = "btnCikis";
-            this.btnCikis.Size = new System.Drawing.Size(94, 24);
+            this.btnCikis.Size = new System.Drawing.Size(125, 30);
             this.btnCikis.TabIndex = 5;
             this.btnCikis.Text = "Çıkış Yap";
             this.btnCikis.UseVisualStyleBackColor = true;
@@ -116,17 +123,19 @@
             this.panel1.Controls.Add(this.lblOgrNo);
             this.panel1.Controls.Add(this.lblSinif);
             this.panel1.Controls.Add(this.lblAdS);
-            this.panel1.Location = new System.Drawing.Point(312, 175);
+            this.panel1.Location = new System.Drawing.Point(416, 215);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(279, 334);
+            this.panel1.Size = new System.Drawing.Size(372, 411);
             this.panel1.TabIndex = 6;
             this.panel1.Visible = false;
             // 
             // btnGeri
             // 
-            this.btnGeri.Location = new System.Drawing.Point(100, 298);
+            this.btnGeri.Location = new System.Drawing.Point(133, 367);
+            this.btnGeri.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnGeri.Name = "btnGeri";
-            this.btnGeri.Size = new System.Drawing.Size(75, 23);
+            this.btnGeri.Size = new System.Drawing.Size(100, 28);
             this.btnGeri.TabIndex = 7;
             this.btnGeri.Text = "Geri Dön";
             this.btnGeri.UseVisualStyleBackColor = true;
@@ -136,10 +145,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Helvetica", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(29, 25);
+            this.label3.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.Location = new System.Drawing.Point(39, 31);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(97, 22);
+            this.label3.Size = new System.Drawing.Size(123, 29);
             this.label3.TabIndex = 6;
             this.label3.Text = "Bilgilerim";
             // 
@@ -147,10 +157,11 @@
             // 
             this.lblKullaniciAdi.AutoSize = true;
             this.lblKullaniciAdi.BackColor = System.Drawing.Color.Transparent;
-            this.lblKullaniciAdi.Font = new System.Drawing.Font("Helvetica", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblKullaniciAdi.Location = new System.Drawing.Point(29, 261);
+            this.lblKullaniciAdi.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblKullaniciAdi.Location = new System.Drawing.Point(39, 321);
+            this.lblKullaniciAdi.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblKullaniciAdi.Name = "lblKullaniciAdi";
-            this.lblKullaniciAdi.Size = new System.Drawing.Size(93, 17);
+            this.lblKullaniciAdi.Size = new System.Drawing.Size(122, 22);
             this.lblKullaniciAdi.TabIndex = 5;
             this.lblKullaniciAdi.Text = "Kullanıcı Adı:";
             // 
@@ -158,10 +169,11 @@
             // 
             this.lblOgrNo.AutoSize = true;
             this.lblOgrNo.BackColor = System.Drawing.Color.Transparent;
-            this.lblOgrNo.Font = new System.Drawing.Font("Helvetica", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblOgrNo.Location = new System.Drawing.Point(29, 201);
+            this.lblOgrNo.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblOgrNo.Location = new System.Drawing.Point(39, 247);
+            this.lblOgrNo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblOgrNo.Name = "lblOgrNo";
-            this.lblOgrNo.Size = new System.Drawing.Size(87, 17);
+            this.lblOgrNo.Size = new System.Drawing.Size(111, 22);
             this.lblOgrNo.TabIndex = 3;
             this.lblOgrNo.Text = "Öğrenci No:";
             // 
@@ -169,10 +181,11 @@
             // 
             this.lblSinif.AutoSize = true;
             this.lblSinif.BackColor = System.Drawing.Color.Transparent;
-            this.lblSinif.Font = new System.Drawing.Font("Helvetica", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblSinif.Location = new System.Drawing.Point(29, 140);
+            this.lblSinif.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblSinif.Location = new System.Drawing.Point(39, 172);
+            this.lblSinif.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSinif.Name = "lblSinif";
-            this.lblSinif.Size = new System.Drawing.Size(42, 17);
+            this.lblSinif.Size = new System.Drawing.Size(56, 22);
             this.lblSinif.TabIndex = 1;
             this.lblSinif.Text = "Sınıf:";
             // 
@@ -180,10 +193,11 @@
             // 
             this.lblAdS.AutoSize = true;
             this.lblAdS.BackColor = System.Drawing.Color.Transparent;
-            this.lblAdS.Font = new System.Drawing.Font("Helvetica", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblAdS.Location = new System.Drawing.Point(29, 79);
+            this.lblAdS.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAdS.Location = new System.Drawing.Point(39, 97);
+            this.lblAdS.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAdS.Name = "lblAdS";
-            this.lblAdS.Size = new System.Drawing.Size(76, 17);
+            this.lblAdS.Size = new System.Drawing.Size(98, 22);
             this.lblAdS.TabIndex = 0;
             this.lblAdS.Text = "Ad Soyad:";
             // 
@@ -191,17 +205,19 @@
             // 
             this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.dgvDersler);
-            this.panel2.Location = new System.Drawing.Point(312, 167);
+            this.panel2.Location = new System.Drawing.Point(416, 206);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(279, 342);
+            this.panel2.Size = new System.Drawing.Size(372, 421);
             this.panel2.TabIndex = 8;
             this.panel2.Visible = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(100, 298);
+            this.button1.Location = new System.Drawing.Point(133, 367);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(100, 28);
             this.button1.TabIndex = 7;
             this.button1.Text = "Geri Dön";
             this.button1.UseVisualStyleBackColor = true;
@@ -209,11 +225,11 @@
             // 
             // FormOgrenci
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::ogrenciBilgiSistemi.Properties.Resources.ogr_background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(904, 521);
+            this.ClientSize = new System.Drawing.Size(1205, 641);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnCikis);
@@ -222,8 +238,9 @@
             this.Controls.Add(this.lblAd);
             this.Controls.Add(this.label1);
             this.DoubleBuffered = true;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormOgrenci";
-            this.Text = "FormOgrenci";
+            this.Text = "Öğrenci Bilgi Sistemi";
             this.Load += new System.EventHandler(this.FormOgrenci_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDersler)).EndInit();
             this.panel1.ResumeLayout(false);

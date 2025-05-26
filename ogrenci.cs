@@ -14,12 +14,5 @@ namespace ogrenciBilgiSistemi
 
         public string sinif {  get; set; }
         public List<Ders> AlinanDersler { get; set; } = new List<Ders>();
-
-        /*public Ogrenci()
-        {
-            AlinanDersler = new List<Ders>();
-        }*/
-
     }
-
 }

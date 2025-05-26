@@ -10,3 +10,15 @@ C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi
 C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.pdb
 C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.FormOgrenci.resources
 C:\Project\ogrenciBilgiSistemi\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.FormOgretmen.resources
+C:\Project\.repos\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.exe.config
+C:\Project\.repos\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.exe
+C:\Project\.repos\ogrenciBilgiSistemi\bin\Debug\ogrenciBilgiSistemi.pdb
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.anaMenu.resources
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.FormOgrenci.resources
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.FormOgretmen.resources
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.Properties.Resources.resources
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.exe
+C:\Project\.repos\ogrenciBilgiSistemi\obj\Debug\ogrenciBilgiSistemi.pdb

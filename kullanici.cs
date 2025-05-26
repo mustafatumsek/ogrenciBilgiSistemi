@@ -12,6 +12,8 @@ namespace ogrenciBilgiSistemi
         public string Sifre { get; set; }
         public string AdSoyad { get; set; }
 
+        public string mail { get; set; }
+
     }
 
 }

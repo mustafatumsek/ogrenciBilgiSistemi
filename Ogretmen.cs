@@ -9,7 +9,7 @@ namespace ogrenciBilgiSistemi
 {
     public class Ogretmen : Kullanici
     {
-        public string SicilNo { get; set; }
+        public string telNo { get; set; }
         public string unvan { get; set; }
 
     }
